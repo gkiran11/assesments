@@ -1,0 +1,14 @@
+The ui filed consit of
+• Search query (input field)
+• Diet preferences (checkboxes for vegetarian, vegan, gluten-free, etc.)
+• Cuisine type (select box with options like Italian, Mexican, Asian, etc.)
+
+
+and data load from json data which has 3 recipie
+1.recipie 1 is  vegeterian and italian cusine type
+2.recipie 2 is  glutenFree and Asian cusine type
+3.recipie 3 is  both glutenFree and vegeterian it is  Mexican cusine type
+
+
+
+when we select all select box showing all recipie and we can searc recioue based on diet preference 
